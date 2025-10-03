@@ -2263,12 +2263,6 @@ Criar e manter atualizados:
 - Obter permissão por escrito (RoE)
 - Documentar todas as ações
 
-**Consequências Legais**:
-- **Brasil**: Lei 12.737/2012 (Lei Carolina Dieckmann)
-- **EUA**: CFAA (Computer Fraud and Abuse Act)
-- **Europa**: GDPR violations
-- Penas podem incluir prisão e multas pesadas
-
 ### Saúde Mental e Burnout
 
 - [ ] **Fazer pausas regulares**
@@ -2438,42 +2432,8 @@ Este é um modelo. Adapte conforme sua rotina (trabalho, faculdade, família).
 
 4. **Zero-Point Security** (CRTO)
    - Red Team Ops (~$600 com exam)
-
+  
 ---
-
-## ESPECIALIZAÇÃO FUTURA (APÓS 2 ANOS)
-
-### Opções de Carreira
-
-- [ ] **Penetration Tester**
-  - Assessments pontuais
-  - Vulnerability assessments
-  - Web app pentesting
-
-- [ ] **Red Team Operator**
-  - Operações de longo prazo
-  - Adversary simulation
-  - APT emulation
-
-- [ ] **Security Researcher**
-  - Bug bounty programs
-  - 0-day research
-  - Exploit development
-
-- [ ] **Malware Analyst/Reverse Engineer**
-  - Malware analysis
-  - Reverse engineering
-  - Threat intelligence
-
-- [ ] **Exploit Developer**
-  - Creation de exploits
-  - Vulnerability research
-  - Fuzzing
-
-- [ ] **Application Security**
-  - Secure SDLC
-  - Code review
-  - DevSecOps
 
 ### Caminhos de Especialização
 
@@ -2580,20 +2540,6 @@ Este é um modelo. Adapte conforme sua rotina (trabalho, faculdade, família).
 
 ---
 
-## REVISÃO E ATUALIZAÇÃO
-
-Este roadmap é um documento vivo. Revise e atualize:
-
-- **Semanalmente**: Progresso pessoal (checklist)
-- **Mensalmente**: Metas e ajustes necessários
-- **Trimestralmente**: Grandes mudanças de direção
-- **Anualmente**: Planejamento de longo prazo
-
-**Última atualização**: [Sua data de início]  
-**Próxima revisão**: [Data futura - 3 meses]
-
----
-
 ## CHECKLIST FINAL - "ESTOU PRONTO PARA RED TEAM?"
 
 Antes de se considerar pronto para posições Red Team profissionais:
@@ -2648,43 +2594,6 @@ Todo expert foi iniciante um dia. IppSec também travava em máquinas Easy. OSCP
 - Faça uma pausa - rest é parte do processo
 - Celebre pequenas vitórias - cada máquina conta
 - Lembre por que começou - sua motivação inicial
-
-### Realidade do Mercado
-
-Red Team é competitivo, mas há demanda crescente. Empresas buscam profissionais que demonstrem:
-- Paixão genuína (portfolio demonstra isso)
-- Capacidade de aprendizado contínuo
-- Ética e profissionalismo
-- Communication skills
-- Problem-solving criativo
-
-Seu roadmap completo + dedicação + portfolio = diferenciais competitivos fortes.
-
----
-
-## CONTATO E NETWORKING
-
-**GitHub**: [seu-usuario]  
-**LinkedIn**: [seu-perfil]  
-**Twitter/X**: [@seu-handle]  
-**Blog**: [seu-blog.com]  
-**Discord**: [seu-user#0000]  
-**Email**: [seu-email@exemplo.com]
-
----
-
-## VERSÃO E CHANGELOG
-
-**Versão**: 1.0  
-**Data**: [Sua data]  
-**Autor**: [Seu nome]
-
-### Changelog
-- v1.0 (data) - Roadmap inicial completo
-  - Todas as 9 fases definidas
-  - Certificações mapeadas
-  - Recursos e ferramentas listados
-  - Timeline de 24 meses estabelecido
 
 ---
 
